@@ -123,3 +123,6 @@ int halfFind(int x, int t[], int nSize)
   if(p <= k)return m;
   return -1;
 }
+
+int my)funs()
+{}
